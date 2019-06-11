@@ -76,6 +76,9 @@ html, body {
     display: block;
     max-width: 100%;
     margin-bottom: $logo-margin;
+    padding-left: 23px;
+    padding-right: 23px;
+    width: 80%;
   }
 
   &>.search {
